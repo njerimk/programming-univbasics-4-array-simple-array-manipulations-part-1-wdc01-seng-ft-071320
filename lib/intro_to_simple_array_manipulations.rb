@@ -20,7 +20,8 @@ def pop_with_args(array)
 end
 
 def using_shift(array)
-  @im_so_over_this_city=using_shift(@my_favorite_cities)
+  @im_so_over_this_city=[using_shift(@my_favorite_cities)]
+  
 end
 
 def shift_with_args(array)
