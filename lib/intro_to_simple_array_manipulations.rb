@@ -26,7 +26,5 @@ end
 
 def shift_with_args(array)
   @brands_removed = ["Blue Bell Creameries", "Ben & Jerry's"]
-  @brands_removed.shift
- 
 
 end
