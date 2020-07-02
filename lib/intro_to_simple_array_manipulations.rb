@@ -25,8 +25,8 @@ def using_shift(array)
 end
 
 def shift_with_args(array)
-  im_so_over_this = ["Tokyo", "Los Angeles", "New York City"]
-  im_so_over_this.shift
+  @brands_removed = ["Blue Bell Creameries", "Ben & Jerry's"]
+  @brands_removed.shift
  
 
 end
